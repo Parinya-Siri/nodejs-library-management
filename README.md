@@ -1,5 +1,4 @@
 # Library management v1
-# Book Management App
 
 A simple Node.js and Express app to manage books, with features to add, issue, return, and delete books. Uses **EJS** for dynamic views.
 
