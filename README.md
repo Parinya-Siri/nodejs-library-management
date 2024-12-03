@@ -19,9 +19,10 @@ A simple Node.js and Express app to manage books, with features to add, issue, r
 ---
 
 ## Installation
-     ```bash
-     npm install 
-     ```
+     
+```bash
+npm install 
+```
 
 ---
 
